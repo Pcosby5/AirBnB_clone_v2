@@ -28,4 +28,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * How to map a Python Class to a MySQL table
 * How to handle 2 different storage engines with the same codebase
 * How to use environment variables
-![(https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)]
+![circuit diagram](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png)
