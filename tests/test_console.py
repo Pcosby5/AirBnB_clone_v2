@@ -15,7 +15,7 @@ from models.user import User
 from tests import clear_stream
 
 
-class TestMyConsole(unittest.TestCase):
+class TestHBNBCommand(unittest.TestCase):
     """
     Represents the test class for the HBNBCommand class.
     """
@@ -151,7 +151,3 @@ class TestMyConsole(unittest.TestCase):
             my_console.onecmd('count State')
             cursor.close()
             dbc.close()
-
-
-if __name__ == '__main__':
-    unittest.main()
